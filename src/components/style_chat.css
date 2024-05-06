@@ -1,0 +1,13 @@
+
+
+.str-chat__channel-list {
+  width: 30%;
+}
+.str-chat__channel {
+  width: 100%;
+  height: 700px;
+  max-height: 700px;
+}
+.str-chat__thread {
+  width: 45%;
+}
